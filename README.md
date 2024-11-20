@@ -1,8 +1,13 @@
 👋 Hi, I’m @Saikiran-k-dev
+
 👨‍💻 Full-Stack Developer specializing in the MERN stack (MongoDB, Express.js, React.js, Node.js)
+
 🌱 Currently learning React Redux, Python Flask, and task automation with Selenium through Coding Ninjas
+
 💼 Experienced in building dynamic web applications and RESTful APIs
+
 📫 Reach me at saikirank.dev@gmail.com
+
 😄 Pronouns: he/him
 
 <!---
