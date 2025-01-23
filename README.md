@@ -12,10 +12,15 @@
   RESTful APIs with Express.js and Node.js to handle interviews.
 
 - **[Employee review system](https://github.com/Saikiran-k-dev/employee-review-system)**  
-  React-based app for tracking habits with dynamic statuses.
+  Developed a comprehensive Employee Review System, a web application that enables Admin to keep track over employee review and performances
+  Designed and integrated admin and employee views for efficient management, submission, and viewing of performance reviews.
+  Implemented user authentication and authorization with JWT  for secure transactions.
+  RESTful APIs with Express.js and Node.js to handle Products.
 
 - **[Ecommerce](https://github.com/Saikiran-k-dev/Ecommerce)**  
-  RESTful API for e-commerce management using Node.js and MongoDB.  
+  Implemented user authentication and authorization with JWT  for secure transactions.
+  Developed RESTful APIs with Express.js and Node.js to handle Products.
+
 
   ## 📊 GitHub Stats  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saikiran-k-dev&theme=radical)  
