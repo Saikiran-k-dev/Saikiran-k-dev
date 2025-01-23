@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Saikiran K
 🔭 MERN Developer | Python Developer | Enthusiastic Programmer | Problem Solver  
-🌟 Passionate about building impactful projects and learning new technologies
+🌟 Passionate about building impactful projects and learning new technologies  
 🌍 Turning ideas into reality with code!
 
 ## 🚀 Tech Stack  
