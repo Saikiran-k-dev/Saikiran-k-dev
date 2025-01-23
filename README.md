@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Saikiran K
 🔭 MERN Developer | Python Developer | Enthusiastic Programmer | Problem Solver  
 🌟 Passionate about building impactful projects and learning new technologies
-🌍 "Turning ideas into reality with code!"
+🌍 Turning ideas into reality with code!
 
 ## 🚀 Tech Stack  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  ![Express](https://img.shields.io/badge/-Express-F7DF1E?style=flat&logo=express&logoColor=black)  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  ![Mongoose](https://img.shields.io/badge/-Mongoose-A58B6F?style=flat&logo=mongoose&logoColor=white)  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-3776AB?style=flat&logo=flask&logoColor=white) 
