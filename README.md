@@ -29,4 +29,5 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saikiran-k-dev&show_icons=true&theme=radical)  
 
 ## 📫 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saikiran-k-38936733b/) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saikiran-k-38936733b/) [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:saikirank.dev@gmail.com)
+
