@@ -13,8 +13,8 @@
   React-based app for tracking habits with dynamic statuses.
 
   ## 📊 GitHub Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=username&theme=radical)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saikiran-k-dev&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saikiran-k-dev&show_icons=true&theme=radical)  
 
 ## 📫 Let's Connect  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
